@@ -1,6 +1,6 @@
 # Gulp-demo
 
-Example gulp demo application to show how to use plugins and run tasks for automating the Front-end development workflow
+An example gulp demo application to show how to use plugins and run tasks for automating the Front-end development workflow, and getting the production ready code.
 
 ### Version
 1.0.0
