@@ -15,6 +15,11 @@ gulp-useref
 gulp-if
 gulp-imagemin
 
+## Install Gulp Globally
+```bash
+npm install gulp -g
+```
+
 ## Install Dependencies
 ```bash
 npm install
